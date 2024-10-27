@@ -10,5 +10,6 @@ In the schematic above, the modification uses one of the transistors in a CD4007
 
 <p align="center"><img src="/images/Clock Internals.JPG"/>
 <p align="left">
-In the photo above, the WWVB receiver board inside the atomic clock can be seen in the lower left corner. The CD4007 is mounted "dead bug" fashion with hot melt glue in the lower right corner.
+In the photo above, the WWVB receiver board inside the atomic clock can be seen in the lower left corner. The CD4007 is mounted "dead bug" fashion with hot melt glue in the lower right corner. On the received board, the wire connecting the 'PON' terminal to the clock board is removed. The 'PON' terminal on the receiver board is then jumpered to ground so the the receiver board is 'ON' at all times.
+
 
