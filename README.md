@@ -1,7 +1,5 @@
 # Atomic-Clock-Modification
-A simple modification to an digital atomic clock provides a visual indication that the signal from WWVB is being received. 
-I needed some sort of device to let me know when a signal was being received from WWVB in Ft. Collins, CO. My first thought was to cannibalize the receiver module from an spare atomic clock that wasn't being used, but I decided instead to modify the atomic clock to add an LED while retaining the clock's functionality.
-
+This is a simple modification to an digital atomic clock that provides a visual indication that the signal from WWVB from Ft. Collin CO is being received. 
 https://github.com/user-attachments/assets/3c32a265-0068-47c1-9179-da709304ece9
 <p align="center">The red LED in the lower right corner of the clock blinks once per second when the WWVB signal is received.</p><br>
 <p align="center"><img src="/images/Atomic Clock Modification.png"/>
