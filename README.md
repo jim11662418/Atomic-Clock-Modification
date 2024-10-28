@@ -1,6 +1,8 @@
 # Atomic-Clock-Modification
 This is a simple modification to an digital atomic clock that provides a visual indication that the signal from WWVB from Ft. Collin CO is being received. 
+
 https://github.com/user-attachments/assets/3c32a265-0068-47c1-9179-da709304ece9
+
 <p align="center">The red LED in the lower right corner of the clock blinks once per second when the WWVB signal is received.</p><br>
 <p align="center"><img src="/images/Atomic Clock Modification.png"/>
 <p align="left">
